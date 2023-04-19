@@ -2,7 +2,7 @@
 #include <string>
 #include <algorithm>
 
-
+//Add namespace for function information
 void presentSimple() {
     std::cout << "When using He/She/It" << std::endl << "Add -s to the first form of the verb." << std::endl;
     std::cout << "When using We/They/You/I" << std::endl << "Use the first form of the verb." << std::endl;
